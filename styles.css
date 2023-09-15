@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+#table{
+	border-collapse:collapse;
+	border:2px solid black;
+	:100px;
+}
+.row{
+	text-align:right;
+}
+.lft{
+	text-align:left;
+}
+/* }   #FE97A8#FEACB9#FEBDC7#FECAD2#FED5DB#FEDDE2White */
+
+#one{
+	background-color:#FE032A;
+}
+#two{
+	background-color:rgb(255,130,149) ;
+}
+#three{
+	background-color:rgb(254,192,202) ;
+}
+#four{
+	background-color:#FEDDE2;
+}
